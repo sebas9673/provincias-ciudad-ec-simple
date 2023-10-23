@@ -1,0 +1,94 @@
+{
+  "EC1": {
+    "name": "Pichincha",
+    "ciudades": ["Quito", "Cayambe", "Conocoto", "Cumbaya", "Machachi"]
+  },
+  "EC2": {
+    "name": "Guayas",
+    "ciudades": ["Guayaquil", "Daule", "Duran", "El Empalme"]
+  },
+  "EC3": {
+    "name": "Azuay",
+    "ciudades": ["Cuenca", "Gualaceo", "Paute", "Sigsig", "Girón", "San Fernando", "Santa Isabel", "Pucará", "Nabón"]
+  },
+  "EC4": {
+    "name": "Bolívar",
+    "ciudades": ["Guaranda", "San Miguel de Bolívar", "Caluma", "Chillanes", "Echeandía", "Chimbo", "La Asunción", "La Magdalena"]
+  },
+  "EC5": {
+    "name": "Cañar",
+    "ciudades": ["Cañar", "Biblián", "Azogue", "La Troncal"]
+  },
+  "EC6": {
+    "name": "Carchi",
+    "ciudades": ["Mira", "Bolívar", "Tulcán", "El Angel", "Huaca", "Julio Andrade", "La Paz", "San Gabriel"]
+  },
+  "EC7": {
+    "name": "Cotopaxi",
+    "ciudades": ["Saquisilí", "Latacunga", "Pujilí", "Salcedo", "Sigchos", "La Maná", "Chantillin", "El Corazón", "Guaytacama", "Lasso", "Pastocalle", "Poalo", "Tanicuchi", "Toacaso", "Mulalo"]
+  },
+  "EC8": {
+    "name": "Chimborazo",
+    "ciudades": ["Alausí", "Chambo", "Chunchi", "Colta", "Cumandá", "Guamote", "Guano", "Pallatanga", "Penipe", "Riobamba"]
+  },
+  "EC9": {
+    "name": "El Oro",
+    "ciudades": ["El Guabo", "Huaquillas", "Machala", "Pasaje", "Piñas", "Puerto Bolivar", "Santa Rosa", "Zaruma", "Portovelo", "Arenillas", "Atahualpa", "Balsas", "Chilla", "Marcabeli"]
+  },
+  "EC10": {
+    "name": "Esmeraldas",
+    "ciudades": ["Atacames", "Eloy Alfaro", "Esmeraldas", "Muisne", "Quinindé", "Río Verde", "San Lorenzo"]
+  },
+  "EC11": {
+    "name": "Galápagos",
+    "ciudades": ["Isabela", "Santa Cruz", "Puerto Baquerizo Moreno", "Puerto Ayora"]
+  },
+  "EC12": {
+    "name": "Imbabura",
+    "ciudades": ["Ibarra", "Ambuqui", "Atuntaqui", "Cotacachi", "Otavalo"]
+  },
+  "EC13": {
+    "name": "Loja",
+    "ciudades": ["Loja", "Macara", "Catamayo", "Cariamanga", "Celica"]
+  },
+  "EC14": {
+    "name": "Los Ríos",
+    "ciudades": ["Portoviejo", "Bahia De Caraquez", "Chone", "El Carmen", "Jipijapa"]
+  },
+  "EC15": {
+    "name": "Manabí",
+    "ciudades": ["Babahoyo", "Buena Fe", "Puebloviejo", "Quevedo", "Ventanas"]
+  },
+  "EC16": {
+    "name": "Morona Santiago",
+    "ciudades": ["Macas", "Gualaquiza", "Limon Indanza", "Santiago", "Sucua"]
+  },
+  "EC17": {
+    "name": "Napo",
+    "ciudades": ["Tena", "Archidona", "Baeza", "El Chaco", "Carlos Julio Arosemena Tola"]
+  },
+  "EC18": {
+    "name": "Orellana",
+    "ciudades": ["Francisco De Orellana", "La Joya De Los Sachas", "Loreto", "Nuevo Rocafuerte"]
+  },
+  "EC19": {
+    "name": "Pastaza",
+    "ciudades": ["Puyo", "Mera", "Palora", "Shell", "Arajuno"]
+  },
+  "EC20": {
+    "name": "Sucumbios",
+    "ciudades": ["Nueva Loja", "Gonzalo Pizarro", "Putumayo", "Shushufindi", "Sucumbios"]
+  },
+  "EC21": {
+    "name": "Santo Domingo de los Tsáchilas",
+    "ciudades": ["Santo Domingo", "Alluriquin", "Luz De América", "Valle Hermoso"]
+  },
+  "EC22": {
+    "name": "Santa Elena",
+    "ciudades": ["Santa Elena", "La Libertad", "Salinas"]
+  },
+  "EC23": {
+    "name": "Tungurahua",
+    "ciudades": ["Ambato", "Baños", "Cevallos", "Izamba", "Mocha"]
+  }
+}
